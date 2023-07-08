@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:loshical/hugged_child.dart';
+import 'package:loshical/ui/widgets/hugged_child.dart';
 
 class QuestionImage extends StatelessWidget {
   const QuestionImage({super.key, required this.assetPath});

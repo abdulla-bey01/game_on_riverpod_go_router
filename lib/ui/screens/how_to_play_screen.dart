@@ -4,7 +4,7 @@ import 'package:photo_view/photo_view.dart';
 
 class HowToPlayScreen extends StatelessWidget {
   const HowToPlayScreen({super.key});
-
+  static const route = 'how-to-play-screen';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
